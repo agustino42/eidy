@@ -7,14 +7,14 @@ export const SERVICES: Service[] = [
     description: "Limado, pulido y esmaltado de uñas con colores a elección.",
     price: "Desde $15",
     image: "/fotos/foto1.jpg", // Actualiza con la ruta correcta de la imagen
-    icon: "Star",
+    icon: <Star className="h-5 w-5" />,
     color: "from-primary/80 to-primary/40",
   },
   {
     title: "Manicura Gel",
     description: "Esmaltado semipermanente que dura hasta 3 semanas sin dañar tus uñas.",
     price: "Desde $25",
-    image: "/images/manicura-gel.jpg", // Actualiza con la ruta correcta de la imagen
+    image: "/fotos/foto1.jpg", // Actualiza con la ruta correcta de la imagen
     icon: <Sparkles className="h-5 w-5" />,
     color: "from-accent/80 to-accent/40",
   },
