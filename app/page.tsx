@@ -136,7 +136,7 @@ export default function Home() {
                 />
               </div>
             </div>
-            <h1 className="text-xl font-bold gradient-text">Bella Nails</h1>
+            <h1 className="text-xl font-bold gradient-text">Eidymar</h1>
           </div>
 
           {/* Mobile menu button */}
@@ -818,7 +818,8 @@ export default function Home() {
           </div>
 
           <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-            <p>&copy; {new Date().getFullYear()} Bella Nails. Todos los derechos reservados.</p>
+            <p>&copy; {new Date().getFullYear()} Eidymar Manicurista Fashion. Todos los derechos reservados.</p>
+            <p>&copy; {new Date().getFullYear()} AgustinoWeb .C.A</p>
           </div>
         </div>
       </footer>
